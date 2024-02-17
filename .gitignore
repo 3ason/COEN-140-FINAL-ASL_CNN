@@ -1,0 +1,4 @@
+asl_alphabet_train/
+asl_alphabet_train_grayscale/
+asl_alphabet_train_small/
+__pycache__/
